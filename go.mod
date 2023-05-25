@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/CosmWasm/wasmd v0.31.0
 	github.com/cometbft/cometbft-db v0.8.0
-	github.com/cosmos/cosmos-sdk v0.45.17-0.20230525101911-1ef49a83aac9
+	github.com/cosmos/cosmos-sdk v0.45.17-0.20230525161016-cc0d0c288c35
 	github.com/cosmos/gaia/v9 v9.0.2
 	github.com/cosmos/ibc-go/v4 v4.4.0
 	github.com/gogo/protobuf v1.3.3
@@ -64,7 +64,7 @@ require (
 	github.com/cosmos/go-bip39 v1.0.0 // indirect
 	github.com/cosmos/gogoproto v1.4.8
 	github.com/cosmos/gorocksdb v1.2.0 // indirect
-	github.com/cosmos/iavl v1.0.0-alpha.1.0.20230519201238-f706bdeefb1f // indirect
+	github.com/cosmos/iavl v1.0.0-alpha.1.0.20230525160555-086110c7ad79 // indirect
 	github.com/cosmos/ledger-cosmos-go v0.12.2 // indirect
 	github.com/creachadair/taskgroup v0.3.2 // indirect
 	github.com/danieljoos/wincred v1.1.2 // indirect
